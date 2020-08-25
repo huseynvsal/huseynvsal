@@ -6,11 +6,8 @@
  
 ### About me :eyes:
 
-- :web: Full stack web development  
-- :mind: Open source mind at
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
-- :e-mail: Ask me about anything ; **[huseynlivusal25@gmail.com](huseynlivusal25@gmail.com)**
-
+- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation   
+- :world: Open source mind at
  
 - 🔭 I’m currently studying at [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
