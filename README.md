@@ -2,6 +2,25 @@
 
 <em>I am a 3th Year undergraduate student from <a href="http://www.asoiu.edu.az/az"><b>Azerbaijan State Oil and Industry University</b></a>. I have serious passion for web development:computer:. This passion helps me develop a very good technological mindset, and gives me the curiosity to learn more. I firmly believe that **no amount of knowledge :rocket: is enough knowledge**. 🧠</em>
  <br/>
+ 
+ 
+### About me :eyes:
+
+- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation   
+- :heart: Open source contributor at **[GSSOC'20](https://www.gssoc.tech/)**
+- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
+- :e-mail: Ask me about anything ; **[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)**
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="huseynvsal's Github Stats" src="https://github-readme-stats-phi-lyart.vercel.app/api?username=huseynvsal&show_icons=true&hide_border=true" />
+
+</details>
+
+![Vüsal's github stats](https://github-readme-stats-phi-lyart.vercel.app/api?username=huseynvsal&show_icons=true&hide_border=true)
+
+ 
 - 🔭 I’m currently studying at [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
