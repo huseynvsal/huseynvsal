@@ -6,8 +6,8 @@
  
 ### About me :eyes:
 
-- :dart: Full stack development
-- :earth_americas: Open source mind at
+- :dart: Full stack web development
+- :earth_americas: Open source mind
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Life Goals: Learn more than I know
 - ⚡ Fun fact: I love fitness
