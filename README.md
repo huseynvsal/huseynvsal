@@ -1,12 +1,12 @@
 ### Hi there, I'm Vüsal 👋
 
-<em>I am a 3th Year undergraduate student from <a href="http://www.asoiu.edu.az/az"><b>Azerbaijan State Oil and Industry University</b></a>. I have serious passion for web development:computer:. This passion helps me develop a very good technological mindset, and gives me the curiosity to learn more. I firmly believe that **no amount of knowledge :rocket: is enough knowledge**. 🧠</em>
+<em>I am a 4th Year undergraduate student from <a href="http://www.asoiu.edu.az/az"><b>Azerbaijan State Oil and Industry University</b></a>. I have serious passion for web development:computer:. This passion helps me develop a very good technological mindset, and gives me the curiosity to learn more. I firmly believe that **no amount of knowledge :rocket: is enough knowledge**. 🧠</em>
  <br/>
  
  
 ### About me :eyes:
 
-- :dart: Full stack web development
+- :dart: Back-end web development
 - :earth_americas: Open source mind
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Life Goals: Learn more than I know
