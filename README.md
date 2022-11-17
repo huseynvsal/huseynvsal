@@ -1,20 +1,89 @@
-### Hi there, I'm Vüsal 👋
+### <div align="center">I'm Vusal, a full-time back-end developer 👨‍💻 working with PHP since 2020 🚀</div>  
+  
 
-<em>I am graduated developer from <a href="http://www.asoiu.edu.az/az"><b>Azerbaijan State Oil and Industry University</b></a>. I have serious passion for web development:computer:. This passion helps me develop a very good technological mindset, and gives me the curiosity to learn more. I firmly believe that **no amount of knowledge :rocket: is enough knowledge**. 🧠</em>
- <br/>
- 
- 
-### About me :eyes:
+- 🔭 I’m currently working on [Algoritma](https://algoritma.az/)  
+  
 
-- :dart: Back-end web development
-- :earth_americas: Open source mind
-- 🌱 I’m currently learning everything 🤣
-- 🥅 Life Goals: Learn more than I know
-- ⚡ Fun fact: I love fitness
+- 🌱 I’m currently learning Java and Docker  
+  
 
-<h4>Languages and Frameworks<h4/>
-  <div><pre><a href='https://www.javascript.com/'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='30px' height='30px'/></a> <a href='https://www.php.net/'><img src='https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png' height='30px' width='30px'/></a> <a href='https://www.postgresql.org/'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png' width='30xp' height='30px'/></a> <a href='https://www.mysql.com/'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' width='30xp' height='30px'/></a> <a href='https://jquery.com/'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png' width='30px' height='30px'/></a> <a href='https://laravel.com/'><img src='https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png' width='30px' height='30px'/></a> </pre></div>
-<h4>Text Editors I usually use</h4>
-    <div><pre><a href='https://www.jetbrains.com/phpstorm/'><img src='https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png' width='35px' height='35px'/></a>  <a href='https://code.visualstudio.com/'><img src='https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg' width='30px' height='30px'/></a>  <a href='https://www.sublimetext.com/'><img src='https://cdn.worldvectorlogo.com/logos/sublime-text.svg' width='30px' height='30px'/></a></pre></div>
-<h4>Tools</h4>
-  <div><pre><a href='https://gitlab.com/explore'><img src='https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_15680ee909406e13c21c8f179f83d99e/gitlab.png' width='40xp' height='25px'/></a>  <a href='https://git-scm.com/'><img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' width='30xp' height='30px'/></a>  <a href='https://github.com/huseynvsal'><img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' width='30xp' height='30px'/></a></pre></div>
+- ⚡ Fun fact: I love fitness and gaming  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/huseynvsal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/huseynvsal" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/huseynvsal" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/huseynvsal" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/12530661" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
